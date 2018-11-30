@@ -3,3 +3,5 @@ If you have any questions or concerns, please contact XYO Network at **developer
 ##
 
 # xyo-android
+
+<p align="center">Made with  ❤️  by [<b>XY - The Persistent Company</b>] (https://xy.company)</p>
